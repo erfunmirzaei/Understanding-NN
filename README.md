@@ -4,7 +4,7 @@ Replicated “Understanding Individual Neuron Importance Using Information Theor
 
 ## Summary key points of the paper[1]
 
-We characterize the outputs of individual neurons in a trained
+● We characterize the outputs of individual neurons in a trained
 feed-forward neural network by entropy, mutual information with the
 class variable, and a class selectivity measure based on
 Kullback-Leibler divergence.
